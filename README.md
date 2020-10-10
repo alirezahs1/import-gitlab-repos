@@ -9,6 +9,6 @@ Go to settings/Access Tokens and generate one.
 sudo apt-install jq
 
 ## 3- Run bash script
-`sudo chmod +x import.sh`
-`sudo ./import <YOURUSERNAME> <TOKEN> <PAGENUMBERS>`
+`sudo chmod +x import.sh`\
+`sudo ./import <YOURUSERNAME> <TOKEN> <PAGENUMBERS>`\
 <PAGENUMBERS> is optional.
